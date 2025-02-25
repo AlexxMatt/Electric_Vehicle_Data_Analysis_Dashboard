@@ -29,4 +29,19 @@ description: Content description.
 ![image](https://github.com/user-attachments/assets/16909935-32e1-47c6-b92a-cddb519a95af)
 
 In a new Excel sheet, I used the COUNTBLANK formula to identify how many empty cells there are in each column of the Netflix dataset. This helped me understand the data quality and decide how to handle missing values.
+
+Columna	Celdas Vacías
+show_id	0
+type	0
+title	0
+director	2634
+cast	825
+country	831
+date_added	10
+release_year	0
+rating	4
+duration	3
+listed_in	0
+description	0
+
 ![image](https://github.com/user-attachments/assets/93fe9a54-6145-45b1-b6c6-b2587054dccb)
