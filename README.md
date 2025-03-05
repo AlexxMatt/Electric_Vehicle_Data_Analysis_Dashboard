@@ -31,14 +31,8 @@ This project presents an interactive dashboard for analyzing the electric vehicl
 🔹 **Incorporate predictive analysis**: Forecast future EV adoption rates.
 🔹 **Enhance interactivity**: Enable drill-down analysis for in-depth insights.
 
-## 📂 Files in Repository
-- `image.png` → Dashboard screenshot.
-- `Electric_Vehicle_Population_Data.xlsx` → Dataset (if shared publicly).
-- `dashboard.pbix` → Power BI file (if applicable).
-
 ## 🛠️ Technologies Used
-- **Microsoft Excel**: Data cleaning and preprocessing.
-- **Power BI / Tableau**: Data visualization and dashboard creation.
+- **Microsoft Excel**: Data cleaning, preprocessing, data visualization and dashboard creation.
 - **Markdown**: Documentation for GitHub.
 
 ## 📢 Conclusion
