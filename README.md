@@ -4,7 +4,7 @@
 This project presents an interactive dashboard for analyzing the electric vehicle (EV) market. The dataset contains information on EV registrations, manufacturers, and electric range trends over the years. The dashboard provides insights into market trends, popular brands, and the distribution of vehicle types.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](image.png)
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/0c5d2b89-1ef6-40b8-b970-7145272a791e))
 
 ## 🔑 Key Insights
 - **Most Popular Brand**: Tesla dominates the market with **44.6%** of total EV registrations.
@@ -44,6 +44,6 @@ This project presents an interactive dashboard for analyzing the electric vehicl
 ## 📢 Conclusion
 This dashboard provides a data-driven overview of the electric vehicle market, offering insights into industry trends, manufacturer performance, and technological advancements. Future enhancements can include deeper data segmentation, predictive modeling, and more interactive features for better decision-making.
 
-![image](https://github.com/user-attachments/assets/0c5d2b89-1ef6-40b8-b970-7145272a791e)
+
 
 ---
