@@ -1,47 +1,22 @@
-# Netflix_dataset
-This project analyzes a Netflix dataset containing information about movies and TV shows, including titles, directors, cast, countries of production, release dates, genres, and more. The goal is to explore trends, patterns, and generate actionable insights about the content available on the platform.
-Dataset Used
-The dataset includes the following columns:
+# Electric Vehicle Data Analysis
 
-show_id: Unique identifier.
+1. Overview
+This dashboard provides a comprehensive analysis of the electric vehicle (EV) market, showcasing key metrics such as total vehicles, most popular brands, and the composition of electric vehicle types.
 
-type: Type of content (Movie or TV Show).
+2. Key Insights
+Most Popular Brand: Tesla dominates the market with 44.6% of total EVs.
+Total Registered Vehicles: 186,879, with a majority being Battery Electric Vehicles (BEV) at 78%.
+Plug-in Hybrid Vehicles (PHEV) account for 22% of the market.
+Market Growth: The average electric range has shown significant growth over the years, peaking in certain periods.
 
-title: Title of the content.
+4. Data Visualization Breakdown
+"10 Most Popular Brands": A bar chart illustrating the leading EV manufacturers, with Tesla, Nissan, and Chevrolet leading the market.
+"Electric Vehicle Type Breakdown": A donut chart visualizing the share of BEVs and PHEVs.
+"Evolution of the Average Electric Range per Year": A line chart tracking the advancements in EV technology over time.
 
-director: Director(s).
-
-cast: Cast members.
-
-country: Country of production.
-
-date_added: Date added to Netflix.
-
-release_year: Year of release.
-
-rating: Content rating.
-
-duration: Duration (in minutes for movies or seasons for TV shows).
-
-listed_in: Genres.
-
-description: Content description.
-![image](https://github.com/user-attachments/assets/16909935-32e1-47c6-b92a-cddb519a95af)
-
-In a new Excel sheet, I used the COUNTBLANK formula to identify how many empty cells there are in each column of the Netflix dataset. This helped me understand the data quality and decide how to handle missing values.
-
-Columna	Celdas Vacías
-show_id	0
-type	0
-title	0
-director	2634
-cast	825
-country	831
-date_added	10
-release_year	0
-rating	4
-duration	3
-listed_in	0
-description	0
-
-![image](https://github.com/user-attachments/assets/93fe9a54-6145-45b1-b6c6-b2587054dccb)
+5. Recommendations
+Further market segmentation: Include breakdowns by region, model, and consumer preferences.
+Incorporate future trends: Forecasting electric vehicle adoption rates using predictive analytics.
+Enhance interactivity: More drill-down capabilities for in-depth analysis.
+This dashboard serves as a valuable tool for understanding the current state of the electric vehicle industry and making data-driven decisions for future investments.
+![image](https://github.com/user-attachments/assets/0c5d2b89-1ef6-40b8-b970-7145272a791e)
